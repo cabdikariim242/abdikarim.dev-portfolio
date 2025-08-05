@@ -223,7 +223,7 @@
         </p>
         <div class="flex justify-center space-x-10 text-3xl text-gray-700 dark:text-gray-300">
           <a
-            href="mailto:yourgmail@gmail.com"
+            href="abdikarim.dev01@gmail.com"
             aria-label="Email"
             class="hover:text-rose-500 transition"
           >
