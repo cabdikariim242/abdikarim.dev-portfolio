@@ -223,12 +223,10 @@
         </p>
         <div class="flex justify-center space-x-10 text-3xl text-gray-700 dark:text-gray-300">
           <a
-  href="mailto:abdikarim.dev01@gmail.com"
-  aria-label="Email"
-  class="hover:text-rose-500 transition"
->
-  Email Me
-</a>
+            href="mailto:abdikarim.dev01@gmail.com"
+            aria-label="Email"
+            class="hover:text-rose-500 transition"
+          >
             <svg
               xmlns="http://www.w3.org/2000/svg"
               class="h-8 w-8"
@@ -243,7 +241,7 @@
                 d="M16 12l-4-4-4 4m0 0l4 4 4-4m-8 4v4a2 2 0 002 2h8a2 2 0 002-2v-4"
               />
             </svg>
-          
+          </a>
           <a
             href="https://github.com/cabdikariim242"
             target="_blank"
