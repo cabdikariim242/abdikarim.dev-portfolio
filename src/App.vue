@@ -224,7 +224,7 @@
         <div class="flex justify-center space-x-10 text-3xl text-gray-700 dark:text-gray-300">
           <a
             href="mailto:abdikarim.dev01@gmail.com"
-            aria-label="Email"
+            aria-label=""
             class="hover:text-rose-500 transition"
           >
             <svg
