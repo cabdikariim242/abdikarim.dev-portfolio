@@ -286,7 +286,7 @@ const projects = [
   {
     name: "Tailwise Dashboard",
     desc: "Responsive Vue.js dashboard with charts.",
-    link: "https://lambent-truffle-65699d.netlify.app",
+    link: "https://vue-setup.vercel.app/",
     image: require("@/assets/tailwis.png"),
   },
   {
